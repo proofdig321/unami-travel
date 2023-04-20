@@ -14,7 +14,7 @@ export default function About({ authors, siteconfig }) {
           About
         </h1>
         <div className="text-center">
-          <p className="text-lg">We are a small passionate team.</p>
+          <p className="text-lg">Hi there, my name is Dee Coole founder of Coole Counselling.</p>
         </div>
 
         <div className="grid grid-cols-3 gap-5 mt-6 mb-16 md:mt-16 md:mb-32 md:gap-16">
@@ -40,16 +40,19 @@ export default function About({ authors, siteconfig }) {
 
         <div className="mx-auto prose text-center dark:prose-invert mt-14">
           <p>
-            We provide real-time connectivity to enable software
-            providers and financial institutions to build integrated
-            products for their small business customers.
+          Having fought my own battle with alcohol and drug addictions, the death of my ex husband 
+          and my father all led me to wanting to help other people who are suffering from addiction,
+          grief, loss, relationships, anxiety, low self-esteem problems
+          I studied psychotherapy and counselling courses to combine the theory and actual 
+          emotionally painful experiences, and how to overcome these challenges in your life.
+
           </p>
           <p>
-            Our API infrastructure is leveraged by clients ranging
-            from lenders to corporate card providers and business
-            forecasting tools, with use cases including automatic
-            reconciliation, business dashboarding, and loan
-            decisioning.
+          To move from the darkness of one's soul into the light, becoming confident, 
+          happy and a positive productive member of society.
+          I am here to help you overcome your problems just like I have, 
+          to be free and the best version of yourself
+
           </p>
           <p>
             <Link href="/contact">Get in touch</Link>

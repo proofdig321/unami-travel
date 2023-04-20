@@ -88,7 +88,6 @@ const Backlink = () => {
         />
       </svg>
 
-      <span> Purchase Pro ↗</span>
     </a>
   );
 };

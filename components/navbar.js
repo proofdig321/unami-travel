@@ -34,8 +34,8 @@ export default function Navbar(props) {
       badge: "new"
     },
     {
-      label: "Download",
-      href: "https://web3templates.com/templates/stablo-minimal-blog-website-template",
+      label: "Facebook",
+      href: "https://www.facebook.com/profile.php?id=100091957654520",
       external: true
     }
   ];
@@ -70,7 +70,7 @@ export default function Navbar(props) {
                         />
                       ) : (
                         <span className="block text-center">
-                          Stablo
+                          Coole Counselling
                         </span>
                       )}
                     </a>
@@ -86,7 +86,7 @@ export default function Navbar(props) {
                         />
                       ) : (
                         <span className="block text-center">
-                          Stablo
+                          Coole Counselling
                         </span>
                       )}
                     </a>
@@ -154,3 +154,4 @@ export default function Navbar(props) {
     </Container>
   );
 }
+
